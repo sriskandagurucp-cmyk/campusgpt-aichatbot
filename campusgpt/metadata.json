@@ -1,0 +1,6 @@
+{
+  "name": "CampusGPT",
+  "description": "AI-powered College Assistant Chatbot for academic queries, placement prep, timetables, and career guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
